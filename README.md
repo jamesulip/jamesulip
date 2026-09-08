@@ -1,1 +1,1 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesulip&show_icons=true&locale=en&count_private=true" alt="jamesulip" /></p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jamesulip&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,prs_authored,prs_reviewed,reviews,issues_authored&hide=contribs,stars&theme=tokyonight&rank_icon=github&border_radius=12&custom_title=Engineering%20Activity)](https://github.com/jamesulip)
